@@ -1,4 +1,4 @@
-package Game_01;
+package RockPaperScissors;
 
 public class ColoredUI {
     // ANSI escape code constants for text colors

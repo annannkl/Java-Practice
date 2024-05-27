@@ -1,9 +1,9 @@
-package Game_01;
+package RockPaperScissors;
 
 import java.util.Scanner;
 import java.util.Random;
 
-public class RockPaperScissors {
+public class Game {
     public static void main(String[]args) {
         ColoredUI coloredUI = new ColoredUI();
         Scanner sc = new Scanner(System.in);

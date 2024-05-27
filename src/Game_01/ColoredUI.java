@@ -1,3 +1,5 @@
+package Game_01;
+
 public class ColoredUI {
     // ANSI escape code constants for text colors
     private String RESET = "\u001B[0m"; // Reset text color

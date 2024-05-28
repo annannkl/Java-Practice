@@ -13,8 +13,8 @@ public class Game {
         Scanner scanner = new Scanner(System.in);
 
         int randomNumber = rand.nextInt(100) + 1;
-        System.out.println(coloredUI.getCyan() + "The Random Number is: " + randomNumber);
-        System.out.println("------------------------------------" + coloredUI.getRESET());
+        //System.out.println(coloredUI.getCyan() + "The Random Number is: " + randomNumber);
+        //System.out.println("------------------------------------" + coloredUI.getRESET());
 
         System.out.println(coloredUI.getPurple() + "------------------------------------------");
         System.out.println("Welcome! Let's play a game, shall we? :D" + coloredUI.getRESET());
